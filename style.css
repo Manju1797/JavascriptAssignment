@@ -1,0 +1,28 @@
+
+*{
+    box-sizing: border-box;
+    
+}
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1580193769210-b8d1c049a7d9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2074&q=80");
+   background-repeat: no-repeat;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+h3{
+    font-style: oblique;
+    font-weight: bold;
+}
+.forecast{
+    font-style: oblique;
+    font-size: 0.9em;
+}
+span{
+    font-size: 1em;
+}
+li:hover{
+    background-color: rgb(146, 126, 126);
+    text-decoration: underline;
+}
